@@ -26,7 +26,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-! [](capitura.png)
+! [](./capitura.png)
 
 ### Ligações
 
